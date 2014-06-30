@@ -13,7 +13,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   git clone --quiet https://${GH_TOKEN}@github.com/col-panic/col-panic.github.io.git  > /dev/null
 
   #go into diractory and copy data we're interested in to that directory
-  cd col-panic.github.io/repositories
+  cd col-panic.github.io/repositories/redsalt-dependencies
   cp -Rf $HOME/redsalt-dependencies/* .
 
   #add, commit and push files
