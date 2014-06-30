@@ -22,6 +22,7 @@
 		<artifact><id>org.milyn:milyn-smooks-all:1.4</id></artifact>
 		<artifact><id>org.joda:joda-money:0.9.1</id></artifact>
 		<artifact><id>junit:junit:4.11</id></artifact>
+		<artifact><id>commons-logging:commons-logging:1.1.3</id></artifact>
               </artifacts>
             </configuration>
           </execution>
