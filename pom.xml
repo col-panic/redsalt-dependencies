@@ -19,7 +19,7 @@
                 <artifact><id>commons-lang:commons-lang:2.4</id></artifact>
                 <artifact><id>commons-lang:commons-lang:2.5</id></artifact>
                 <artifact><id>commons-lang:commons-lang:2.6</id></artifact>
-		<artifact><id>org.milyn:milyn-smooks-all:1.5.1</id></artifact>
+		<artifact><id>org.milyn:milyn-smooks-all:1.5</id></artifact>
 		<artifact><id>org.joda:joda-money:0.9.1</id></artifact>
               </artifacts>
             </configuration>
