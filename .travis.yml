@@ -1,4 +1,5 @@
 script: mvn clean p2:site
+after_success: ./update-gh-pages.sh
 env:
   global:
     secure: Qwdfnk8gCCEswWGy2ojPaIVU62ulD4Q8fYfac4pby9evCqYsWDmMaBYxHshWC+Jwh+nQlgbrgJQEq94JqeKLTZJYIgHZ/jxXIIcjy4ypT3mGwm/xVfjP9ttru2fVmv33qcQV6tHGV6d11hJhwcM+fB07EQIMlZ9WfQLNQRKW4Z0=
