@@ -24,6 +24,7 @@
 		<artifact><source>true</source><id>org.joda:joda-money:0.9.1</id></artifact>
 		<artifact><id>junit:junit:4.11</id></artifact>
 		<artifact><id>commons-logging:commons-logging:1.1.3</id></artifact>
+		<artifact><source>true</source><id>net.sf.opencsv:opencsv:2.3</id></artifact>
               </artifacts>
             </configuration>
           </execution>
