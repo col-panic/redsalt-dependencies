@@ -29,6 +29,7 @@
 		<artifact><id>org.modeshape:modeshape-jcr-api:3.8.0.Final</id></artifact>
 		<artifact><id>org.modeshape:modeshape-common:3.8.0.Final</id></artifact>
 		<artifact><source>true</source><id>net.sf.opencsv:opencsv:2.3</id></artifact>
+		<artifact><source>true</source><id>com.mashape.unirest:unirest-java:1.4.7</id></artifact>
               </artifacts>
             </configuration>
           </execution>
